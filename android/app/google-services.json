@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022203301496",
+    "project_id": "songify-699d4",
+    "storage_bucket": "songify-699d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022203301496:android:483132e938f9a33072a78d",
+        "android_client_info": {
+          "package_name": "com.example.songify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPvwW8nY2xRUbS4v3pExjEUAkFUGkRZbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
